@@ -17,3 +17,7 @@ This is a project where we took the features of car and build an interface for s
 
 **ENVIRONMENT**
   The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
+**NOTE**
+As ApplicationModule is a part of UX,expect that every other module has a code coverage of 100%
+
+![image](https://github.com/user-attachments/assets/bcefae18-533c-4cb0-b0b0-df0d9b5a0bc5)
