@@ -15,3 +15,4 @@ C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0
 C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\refint\DirectorModule.dll
 C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.pdb
 C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\ref\DirectorModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.sourcelink.json

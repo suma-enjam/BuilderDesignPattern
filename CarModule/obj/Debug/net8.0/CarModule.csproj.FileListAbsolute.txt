@@ -9,3 +9,4 @@ C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarM
 C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\refint\CarModule.dll
 C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.pdb
 C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\ref\CarModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.sourcelink.json

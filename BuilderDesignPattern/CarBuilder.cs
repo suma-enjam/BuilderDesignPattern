@@ -7,7 +7,7 @@
 * 
 * Project     = BuilderPatternDemo
 *
-* Description = Contract for a listener that is notified when a node is visited.
+* Description = inheriting the IBuilder interface and writing the functionalities of the medthos.
 *****************************************************************************/
 using System;
 using System.Collections.Generic;
@@ -50,7 +50,7 @@ namespace BuilderDesignPattern
         {
             _car.gps=gps;
         }
-
+        //returing the the car object that has been created
         public Car getProduct()
         {
             Car product = _car;

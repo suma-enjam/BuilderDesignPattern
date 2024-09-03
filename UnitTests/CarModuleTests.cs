@@ -7,7 +7,7 @@
 * 
 * Project     = BuilderPatternDemo
 *
-* Description = Contract for a listener that is notified when a node is visited.
+* Description = Unit Tests for CarModule.
 *****************************************************************************/
 using System;
 using System.Collections.Generic;

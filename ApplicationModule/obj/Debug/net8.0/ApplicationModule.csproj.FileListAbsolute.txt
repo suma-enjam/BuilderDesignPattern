@@ -20,3 +20,4 @@ C:\Users\91901\source\repos\BuilderDesignPattern\ApplicationModule\obj\Debug\net
 C:\Users\91901\source\repos\BuilderDesignPattern\ApplicationModule\obj\Debug\net8.0\ApplicationModule.pdb
 C:\Users\91901\source\repos\BuilderDesignPattern\ApplicationModule\obj\Debug\net8.0\ApplicationModule.genruntimeconfig.cache
 C:\Users\91901\source\repos\BuilderDesignPattern\ApplicationModule\obj\Debug\net8.0\ref\ApplicationModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\ApplicationModule\obj\Debug\net8.0\ApplicationModule.sourcelink.json

@@ -7,7 +7,7 @@
 * 
 * Project     = BuilderPatternDemo
 *
-* Description = Contract for a listener that is notified when a node is visited.
+* Description = All the features of a car are list here.
 *****************************************************************************/
 using System;
 using System.Collections.Generic;
@@ -23,6 +23,8 @@ namespace CarModule
         public string? engine;
         public string? color;
         public bool gps;
+
+        //formatting all the above things into a string
         public override string ToString()
         {
             return $"Car Details:\nSeats: {seats}\nEngine: {engine}\nColor: {color}\nGPS: {gps}";

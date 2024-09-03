@@ -7,7 +7,7 @@
 * 
 * Project     = BuilderPatternDemo
 *
-* Description = Contract for a listener that is notified when a node is visited.
+* Description = creating an instance of sports car and printing it.
 *****************************************************************************/
 
 using System;
@@ -27,7 +27,11 @@ namespace ApplicationModule
         {
             Director director = new();
             CarBuilder builder = new();
+
+            // setting values of sports car to the created builder
             director.BuildSportsCar( builder );
+
+            //return a product of type Car
             return builder.getProduct();
         }
 

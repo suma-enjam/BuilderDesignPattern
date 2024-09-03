@@ -13,3 +13,4 @@ C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\
 C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\refint\BuilderDesignPattern.dll
 C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.pdb
 C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\ref\BuilderDesignPattern.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.sourcelink.json

@@ -128,3 +128,4 @@ C:\Users\91901\source\repos\BuilderDesignPattern\UnitTests\bin\Debug\net8.0\xuni
 C:\Users\91901\source\repos\BuilderDesignPattern\UnitTests\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\91901\source\repos\BuilderDesignPattern\UnitTests\bin\Debug\net8.0\xunit.core.dll
 C:\Users\91901\source\repos\BuilderDesignPattern\UnitTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\UnitTests\obj\Debug\net8.0\UnitTests.sourcelink.json

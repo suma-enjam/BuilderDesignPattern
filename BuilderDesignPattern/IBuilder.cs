@@ -7,7 +7,7 @@
 * 
 * Project     = BuilderPatternDemo
 *
-* Description = Contract for a listener that is notified when a node is visited.
+* Description = It is an interface describing all the construction methods.
 *****************************************************************************/
 using System;
 using System.Collections.Generic;

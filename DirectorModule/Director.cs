@@ -7,7 +7,7 @@
 * 
 * Project     = BuilderPatternDemo
 *
-* Description = Contract for a listener that is notified when a node is visited.
+* Description = showing different apperances of the construction.
 *****************************************************************************/
 using System;
 using System.Collections.Generic;
@@ -20,7 +20,7 @@ namespace DirectorModule
 {
     public class Director
     {
-
+        //Setting values for sports car 
         public void BuildSportsCar(IBuilder builder)
         {
             builder.reset();
@@ -29,7 +29,7 @@ namespace DirectorModule
             builder.setColor("Red");
             builder.setGPS( true );
         }
-
+        //setting values for SUV
         public void BuildSUV(IBuilder builder)
         {
             builder.reset();
@@ -38,7 +38,7 @@ namespace DirectorModule
             builder.setColor("Black");
             builder.setGPS( true );
         }
-
+        //setting values for Convertible
         public void BuildConvertible( IBuilder builder )
         {
             builder.reset();
