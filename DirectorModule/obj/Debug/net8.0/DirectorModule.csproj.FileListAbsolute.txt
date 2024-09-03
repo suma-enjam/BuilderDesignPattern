@@ -1,0 +1,17 @@
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\DirectorModule.deps.json
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\DirectorModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\DirectorModule.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\BuilderDesignPattern.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\CarModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\bin\Debug\net8.0\CarModule.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.csproj.AssemblyReference.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.AssemblyInfoInputs.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.AssemblyInfo.cs
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.csproj.CoreCompileInputs.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\Director.D04D15D7.Up2Date
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\refint\DirectorModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\DirectorModule.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\DirectorModule\obj\Debug\net8.0\ref\DirectorModule.dll

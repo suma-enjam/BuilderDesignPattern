@@ -1,0 +1,15 @@
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.deps.json
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\CarModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net8.0\CarModule.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.csproj.AssemblyReference.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderD.615AD7E8.Up2Date
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\refint\BuilderDesignPattern.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net8.0\ref\BuilderDesignPattern.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuilderDesignPattern/1.0.0": {
+        "dependencies": {
+          "CarModule": "1.0.0"
+        },
+        "runtime": {
+          "BuilderDesignPattern.dll": {}
+        }
+      },
+      "CarModule/1.0.0": {
+        "runtime": {
+          "CarModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuilderDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

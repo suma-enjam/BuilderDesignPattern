@@ -1,0 +1,11 @@
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\bin\Debug\net8.0\CarModule.deps.json
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\bin\Debug\net8.0\CarModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\bin\Debug\net8.0\CarModule.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.AssemblyInfoInputs.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.AssemblyInfo.cs
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.csproj.CoreCompileInputs.cache
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\refint\CarModule.dll
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\CarModule.pdb
+C:\Users\91901\source\repos\BuilderDesignPattern\CarModule\obj\Debug\net8.0\ref\CarModule.dll
